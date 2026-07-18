@@ -69,6 +69,19 @@
       "raw_path": "raw/khane-to/episode-06.raw.json",
       "rag_path": "rag/episodes/episode-06.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-07",
+      "episode": 7,
+      "title": "کار داوطلبانه، شروعی برای کاریابی و کسب درآمد",
+      "duration_seconds": 524,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/BF2CFA69/x",
+      "video_url": "https://www.aparat.com/v/2Goum",
+      "transcript_path": "transcripts/khane-to/episode-07.md",
+      "raw_path": "raw/khane-to/episode-07.raw.json",
+      "rag_path": "rag/episodes/episode-07.jsonl",
+      "status": "reviewed"
     }
   ]
 }
