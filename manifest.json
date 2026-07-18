@@ -17,7 +17,19 @@
       "raw_path": "raw/khane-to/episode-01.raw.json",
       "rag_path": "rag/episodes/episode-01.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-02",
+      "episode": 2,
+      "title": "آموزه‌های سواد مالی درباره خرج",
+      "duration_seconds": 1070,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/92B86E79/x",
+      "video_url": "https://www.aparat.com/v/ASBvd",
+      "transcript_path": "transcripts/khane-to/episode-02.md",
+      "raw_path": "raw/khane-to/episode-02.raw.json",
+      "rag_path": "rag/episodes/episode-02.jsonl",
+      "status": "reviewed"
     }
   ]
 }
-
