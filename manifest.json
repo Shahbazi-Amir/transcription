@@ -43,6 +43,19 @@
       "raw_path": "raw/khane-to/episode-03.raw.json",
       "rag_path": "rag/episodes/episode-03.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-04",
+      "episode": 4,
+      "title": "الگوهای نادرست خرید و راهکارهای پرهیز از آن",
+      "duration_seconds": 847,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/9673DF51/x",
+      "video_url": "https://www.aparat.com/v/WHPzN",
+      "transcript_path": "transcripts/khane-to/episode-04.md",
+      "raw_path": "raw/khane-to/episode-04.raw.json",
+      "rag_path": "rag/episodes/episode-04.jsonl",
+      "status": "reviewed"
     }
   ]
 }
