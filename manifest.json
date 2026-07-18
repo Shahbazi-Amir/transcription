@@ -58,6 +58,19 @@
       "status": "reviewed"
     },
     {
+      "id": "khane-to-05",
+      "episode": 5,
+      "title": "به محض کسب درآمد، اول به خودت بپرداز",
+      "duration_seconds": 1162,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/746AFDA4/x",
+      "video_url": "https://www.aparat.com/v/Rzf1a",
+      "transcript_path": "transcripts/khane-to/episode-05.md",
+      "raw_path": "raw/khane-to/episode-05.raw.json",
+      "rag_path": "rag/episodes/episode-05.jsonl",
+      "status": "reviewed"
+    },
+    {
       "id": "khane-to-06",
       "episode": 6,
       "title": "چه زمانی قرض بگیریم و چه نکاتی را رعایت کنیم؟",
