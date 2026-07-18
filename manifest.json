@@ -95,6 +95,19 @@
       "raw_path": "raw/khane-to/episode-08.raw.json",
       "rag_path": "rag/episodes/episode-08.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-09",
+      "episode": 9,
+      "title": "چطور شغل‌مان را توسعه دهیم؟",
+      "duration_seconds": 871,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/00D9A87F/x",
+      "video_url": "https://www.aparat.com/v/Jp9uc",
+      "transcript_path": "transcripts/khane-to/episode-09.md",
+      "raw_path": "raw/khane-to/episode-09.raw.json",
+      "rag_path": "rag/episodes/episode-09.jsonl",
+      "status": "reviewed"
     }
   ]
 }
