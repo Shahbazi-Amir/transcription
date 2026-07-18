@@ -1,0 +1,23 @@
+{
+  "dataset": "financial-academy-transcripts",
+  "language": "fa",
+  "program": "خانه تو",
+  "publisher": "آکادمی هوش مالی",
+  "episodes_total": 13,
+  "episodes": [
+    {
+      "id": "khane-to-01",
+      "episode": 1,
+      "title": "سواد مالی چیست و چه موضوعاتی را در بر می‌گیرد؟",
+      "duration_seconds": 813,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/24A50616/x",
+      "video_url": "https://www.aparat.com/v/9Tj0C",
+      "transcript_path": "transcripts/khane-to/episode-01.md",
+      "raw_path": "raw/khane-to/episode-01.raw.json",
+      "rag_path": "rag/episodes/episode-01.jsonl",
+      "status": "reviewed"
+    }
+  ]
+}
+
