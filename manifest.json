@@ -82,6 +82,19 @@
       "raw_path": "raw/khane-to/episode-07.raw.json",
       "rag_path": "rag/episodes/episode-07.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-08",
+      "episode": 8,
+      "title": "سه ویژگی شغل رضایت‌بخش",
+      "duration_seconds": 568,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/1B330C23/x",
+      "video_url": "https://www.aparat.com/v/egP9f",
+      "transcript_path": "transcripts/khane-to/episode-08.md",
+      "raw_path": "raw/khane-to/episode-08.raw.json",
+      "rag_path": "rag/episodes/episode-08.jsonl",
+      "status": "reviewed"
     }
   ]
 }
