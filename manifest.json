@@ -30,6 +30,19 @@
       "raw_path": "raw/khane-to/episode-02.raw.json",
       "rag_path": "rag/episodes/episode-02.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-03",
+      "episode": 3,
+      "title": "ابزارهای سواد مالی برای بهبود مدیریت هزینه",
+      "duration_seconds": 1131,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/7C71884B/x",
+      "video_url": "https://www.aparat.com/v/CnOy3",
+      "transcript_path": "transcripts/khane-to/episode-03.md",
+      "raw_path": "raw/khane-to/episode-03.raw.json",
+      "rag_path": "rag/episodes/episode-03.jsonl",
+      "status": "reviewed"
     }
   ]
 }
