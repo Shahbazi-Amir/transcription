@@ -121,6 +121,19 @@
       "raw_path": "raw/khane-to/episode-10.raw.json",
       "rag_path": "rag/episodes/episode-10.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-11",
+      "episode": 11,
+      "title": "چرا ریسک‌پذیر نیستیم؟ با نگاهی به صندوق‌های سرمایه‌گذاری",
+      "duration_seconds": 552,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/C203F9BA/x",
+      "video_url": "https://www.aparat.com/v/w2Sg9",
+      "transcript_path": "transcripts/khane-to/episode-11.md",
+      "raw_path": "raw/khane-to/episode-11.raw.json",
+      "rag_path": "rag/episodes/episode-11.jsonl",
+      "status": "reviewed"
     }
   ]
 }
