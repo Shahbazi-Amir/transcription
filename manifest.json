@@ -56,6 +56,19 @@
       "raw_path": "raw/khane-to/episode-04.raw.json",
       "rag_path": "rag/episodes/episode-04.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-06",
+      "episode": 6,
+      "title": "چه زمانی قرض بگیریم و چه نکاتی را رعایت کنیم؟",
+      "duration_seconds": 778,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/847D7023/x",
+      "video_url": "https://www.aparat.com/v/soFeN",
+      "transcript_path": "transcripts/khane-to/episode-06.md",
+      "raw_path": "raw/khane-to/episode-06.raw.json",
+      "rag_path": "rag/episodes/episode-06.jsonl",
+      "status": "reviewed"
     }
   ]
 }
