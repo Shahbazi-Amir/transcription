@@ -134,6 +134,19 @@
       "raw_path": "raw/khane-to/episode-11.raw.json",
       "rag_path": "rag/episodes/episode-11.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-12",
+      "episode": 12,
+      "title": "گام‌های عملیاتی برای انجام معاملات در بورس",
+      "duration_seconds": 850,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/2AA67199/x",
+      "video_url": "https://www.aparat.com/v/uGBLE",
+      "transcript_path": "transcripts/khane-to/episode-12.md",
+      "raw_path": "raw/khane-to/episode-12.raw.json",
+      "rag_path": "rag/episodes/episode-12.jsonl",
+      "status": "reviewed"
     }
   ]
 }
