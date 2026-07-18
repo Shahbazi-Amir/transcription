@@ -108,6 +108,19 @@
       "raw_path": "raw/khane-to/episode-09.raw.json",
       "rag_path": "rag/episodes/episode-09.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-10",
+      "episode": 10,
+      "title": "سه دلیل برای سرمایه‌گذاری و پنج گزینه برای انتخاب",
+      "duration_seconds": 1122,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/2E656F0E/x",
+      "video_url": "https://www.aparat.com/v/zv3FP",
+      "transcript_path": "transcripts/khane-to/episode-10.md",
+      "raw_path": "raw/khane-to/episode-10.raw.json",
+      "rag_path": "rag/episodes/episode-10.jsonl",
+      "status": "reviewed"
     }
   ]
 }
