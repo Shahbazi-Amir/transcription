@@ -147,6 +147,19 @@
       "raw_path": "raw/khane-to/episode-12.raw.json",
       "rag_path": "rag/episodes/episode-12.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "khane-to-13",
+      "episode": 13,
+      "title": "چطور از خودمان و سرمایه‌مان محافظت کنیم؟",
+      "duration_seconds": 1040,
+      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/1699F2E4/x",
+      "video_url": "https://www.aparat.com/v/Vn2ek",
+      "transcript_path": "transcripts/khane-to/episode-13.md",
+      "raw_path": "raw/khane-to/episode-13.raw.json",
+      "rag_path": "rag/episodes/episode-13.jsonl",
+      "status": "reviewed"
     }
   ]
 }
