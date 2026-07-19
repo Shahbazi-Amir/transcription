@@ -17,7 +17,7 @@
     }
   ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 24,
+  "episodes_total": 25,
   "episodes": [
     {
       "id": "khane-to-01",
@@ -442,6 +442,26 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-11.md",
       "raw_path": "raw/asre-shirin-season-1/episode-11.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-11.jsonl",
+      "status": "reviewed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-12",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 12,
+      "title": "سواد مالی برای خانم‌ها؛ ساده اما بد",
+      "duration_seconds": 1623,
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/D15AE683/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%B2%D9%86%D8%A7%D9%86-%D8%B3%D8%A7%D8%AF%D9%87-%D8%A7%D9%85%D8%A7-%D8%A8%D8%AF",
+      "video_url": "https://www.aparat.com/v/LrmDd",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-12.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-12.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-12.jsonl",
       "status": "reviewed",
       "review_status": "reviewed"
     }
