@@ -13,7 +13,7 @@
       "name": "عصر شیرین",
       "season": "فصل اول",
       "episodes_total": 13,
-      "status": "reviewed"
+      "status": "in_progress"
     }
   ],
   "publisher": "آکادمی هوش مالی",
@@ -282,8 +282,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-03.md",
       "raw_path": "raw/asre-shirin-season-1/episode-03.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-03.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-04",
@@ -302,8 +302,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-04.md",
       "raw_path": "raw/asre-shirin-season-1/episode-04.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-04.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-05",
@@ -322,8 +322,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-05.md",
       "raw_path": "raw/asre-shirin-season-1/episode-05.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-05.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-06",
@@ -342,8 +342,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-06.md",
       "raw_path": "raw/asre-shirin-season-1/episode-06.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-06.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-07",
@@ -362,8 +362,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-07.md",
       "raw_path": "raw/asre-shirin-season-1/episode-07.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-07.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-08",
@@ -382,8 +382,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-08.md",
       "raw_path": "raw/asre-shirin-season-1/episode-08.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-08.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-09",
@@ -402,8 +402,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-09.md",
       "raw_path": "raw/asre-shirin-season-1/episode-09.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-09.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-10",
@@ -422,8 +422,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-10.md",
       "raw_path": "raw/asre-shirin-season-1/episode-10.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-10.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-11",
@@ -442,8 +442,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-11.md",
       "raw_path": "raw/asre-shirin-season-1/episode-11.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-11.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-12",
@@ -462,8 +462,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-12.md",
       "raw_path": "raw/asre-shirin-season-1/episode-12.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-12.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     },
     {
       "id": "asre-shirin-season-1-13",
@@ -482,8 +482,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-13.md",
       "raw_path": "raw/asre-shirin-season-1/episode-13.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-13.jsonl",
-      "status": "reviewed",
-      "review_status": "reviewed"
+      "status": "needs_review",
+      "review_status": "needs_review"
     }
   ]
 }
