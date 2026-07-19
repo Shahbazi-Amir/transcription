@@ -17,7 +17,7 @@
     }
   ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 21,
+  "episodes_total": 22,
   "episodes": [
     {
       "id": "khane-to-01",
@@ -382,6 +382,26 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-08.md",
       "raw_path": "raw/asre-shirin-season-1/episode-08.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-08.jsonl",
+      "status": "reviewed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-09",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 9,
+      "title": "سواد مالی خانم‌ها؛ هر دارایی ثروتمندترمان می‌کند؟",
+      "duration_seconds": 1459,
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/7AB68D23/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7-%D9%87%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AB%D8%B1%D9%88%D8%AA%D9%85%D9%86%D8%AF%D8%AA%D8%B1%D9%85%D8%A7%D9%86-%D9%85%DB%8C%DA%A9%D9%86%D8%AF",
+      "video_url": "https://www.aparat.com/v/oDFTR",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-09.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-09.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-09.jsonl",
       "status": "reviewed",
       "review_status": "reviewed"
     }
