@@ -17,7 +17,7 @@
     }
   ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 19,
+  "episodes_total": 20,
   "episodes": [
     {
       "id": "khane-to-01",
@@ -342,6 +342,26 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-06.md",
       "raw_path": "raw/asre-shirin-season-1/episode-06.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-06.jsonl",
+      "status": "reviewed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-07",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 7,
+      "title": "سواد مالی خانم‌ها؛ فکری برای بحران‌ها و آینده‌مان کرده‌ایم؟",
+      "duration_seconds": 1534,
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/BFAC7A6B/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7-%D9%81%DA%A9%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86%D9%87%D8%A7-%D9%88-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%DB%8C%D9%85",
+      "video_url": "https://www.aparat.com/v/T1hZM",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-07.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-07.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-07.jsonl",
       "status": "reviewed",
       "review_status": "reviewed"
     }
