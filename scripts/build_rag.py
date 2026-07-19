@@ -41,20 +41,24 @@ def main():
         markdown = (ROOT / episode["transcript_path"]).read_text(encoding="utf-8")
         chunks = [chunk for section in sections(markdown) for chunk in split_long(section)]
         records = []
+        program = episode.get("program", MANIFEST["program"])
         for index, text in enumerate(chunks, 1):
+            metadata = {
+                "program": program,
+                "episode": episode["episode"],
+                "title": episode["title"],
+                "speakers": episode["speakers"],
+                "source_url": episode["source_url"],
+                "video_url": episode["video_url"],
+                "language": MANIFEST["language"],
+                "review_status": episode["status"]
+            }
+            if episode.get("season"):
+                metadata["season"] = episode["season"]
             record = {
                 "id": f"{episode['id']}-{index:03d}",
                 "text": text,
-                "metadata": {
-                    "program": MANIFEST["program"],
-                    "episode": episode["episode"],
-                    "title": episode["title"],
-                    "speakers": episode["speakers"],
-                    "source_url": episode["source_url"],
-                    "video_url": episode["video_url"],
-                    "language": MANIFEST["language"],
-                    "review_status": episode["status"]
-                }
+                "metadata": metadata
             }
             records.append(record)
         destination = ROOT / episode["rag_path"]
@@ -70,4 +74,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

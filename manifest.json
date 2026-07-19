@@ -2,8 +2,22 @@
   "dataset": "financial-academy-transcripts",
   "language": "fa",
   "program": "خانه تو",
+  "programs": [
+    {
+      "name": "خانه تو",
+      "season": "مجموعه کامل",
+      "episodes_total": 13,
+      "status": "reviewed"
+    },
+    {
+      "name": "عصر شیرین",
+      "season": "فصل اول",
+      "episodes_total": 13,
+      "status": "in_progress"
+    }
+  ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 13,
+  "episodes_total": 14,
   "episodes": [
     {
       "id": "khane-to-01",
@@ -172,6 +186,21 @@
       "transcript_path": "transcripts/khane-to/episode-13.md",
       "raw_path": "raw/khane-to/episode-13.raw.json",
       "rag_path": "rag/episodes/episode-13.jsonl",
+      "status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-01",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 1,
+      "title": "سواد مالی برای خانم‌ها؛ واقعاً ضروری است؟",
+      "duration_seconds": 1453,
+      "speakers": ["دکتر کمیل رودی", "مجری برنامه", "شرکت‌کنندگان کارگاه"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/B094D69C/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%D8%A7-%D8%B6%D8%B1%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA",
+      "video_url": "https://www.aparat.com/v/6XCwb",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-01.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-01.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-01.jsonl",
       "status": "reviewed"
     }
   ]
