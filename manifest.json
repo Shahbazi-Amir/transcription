@@ -17,7 +17,7 @@
     }
   ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 18,
+  "episodes_total": 19,
   "episodes": [
     {
       "id": "khane-to-01",
@@ -322,6 +322,26 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-05.md",
       "raw_path": "raw/asre-shirin-season-1/episode-05.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-05.jsonl",
+      "status": "reviewed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-06",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 6,
+      "title": "سواد مالی خانم‌ها؛ تصمیم‌های خرید را خودمان می‌گیریم یا عادت‌های‌مان؟",
+      "duration_seconds": 1542,
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/BC0342B6/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7-%D8%AA%D8%B5%D9%85%DB%8C%D9%85%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B1%D8%A7-%D8%AE%D9%88%D8%AF%D9%85%D8%A7%D9%86-%D9%85%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C%D9%85-%DB%8C%D8%A7-%D8%B9%D8%A7%D8%AF%D8%AA%D9%87%D8%A7%DB%8C%D9%85%D8%A7%D9%86",
+      "video_url": "https://www.aparat.com/v/60uwC",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-06.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-06.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-06.jsonl",
       "status": "reviewed",
       "review_status": "reviewed"
     }
