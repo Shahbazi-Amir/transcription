@@ -17,7 +17,7 @@
     }
   ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 23,
+  "episodes_total": 24,
   "episodes": [
     {
       "id": "khane-to-01",
@@ -422,6 +422,26 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-10.md",
       "raw_path": "raw/asre-shirin-season-1/episode-10.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-10.jsonl",
+      "status": "reviewed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-11",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 11,
+      "title": "سواد مالی برای خانم‌ها؛ اول ایمنی، بعد کار",
+      "duration_seconds": 1612,
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/B7936C0D/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D9%87%D8%A7-%D8%A7%D9%88%D9%84-%D8%A7%DB%8C%D9%85%D9%86%DB%8C-%D8%A8%D8%B9%D8%AF-%DA%A9%D8%A7%D8%B1",
+      "video_url": "https://www.aparat.com/v/rbMBW",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-11.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-11.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-11.jsonl",
       "status": "reviewed",
       "review_status": "reviewed"
     }
