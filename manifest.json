@@ -17,14 +17,17 @@
     }
   ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 15,
+  "episodes_total": 16,
   "episodes": [
     {
       "id": "khane-to-01",
       "episode": 1,
       "title": "سواد مالی چیست و چه موضوعاتی را در بر می‌گیرد؟",
       "duration_seconds": 813,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/24A50616/x",
       "video_url": "https://www.aparat.com/v/9Tj0C",
       "transcript_path": "transcripts/khane-to/episode-01.md",
@@ -37,7 +40,10 @@
       "episode": 2,
       "title": "آموزه‌های سواد مالی درباره خرج",
       "duration_seconds": 1070,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/92B86E79/x",
       "video_url": "https://www.aparat.com/v/ASBvd",
       "transcript_path": "transcripts/khane-to/episode-02.md",
@@ -50,7 +56,10 @@
       "episode": 3,
       "title": "ابزارهای سواد مالی برای بهبود مدیریت هزینه",
       "duration_seconds": 1131,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/7C71884B/x",
       "video_url": "https://www.aparat.com/v/CnOy3",
       "transcript_path": "transcripts/khane-to/episode-03.md",
@@ -63,7 +72,10 @@
       "episode": 4,
       "title": "الگوهای نادرست خرید و راهکارهای پرهیز از آن",
       "duration_seconds": 847,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/9673DF51/x",
       "video_url": "https://www.aparat.com/v/WHPzN",
       "transcript_path": "transcripts/khane-to/episode-04.md",
@@ -76,7 +88,10 @@
       "episode": 5,
       "title": "به محض کسب درآمد، اول به خودت بپرداز",
       "duration_seconds": 1162,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/746AFDA4/x",
       "video_url": "https://www.aparat.com/v/Rzf1a",
       "transcript_path": "transcripts/khane-to/episode-05.md",
@@ -89,7 +104,10 @@
       "episode": 6,
       "title": "چه زمانی قرض بگیریم و چه نکاتی را رعایت کنیم؟",
       "duration_seconds": 778,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/847D7023/x",
       "video_url": "https://www.aparat.com/v/soFeN",
       "transcript_path": "transcripts/khane-to/episode-06.md",
@@ -102,7 +120,10 @@
       "episode": 7,
       "title": "کار داوطلبانه، شروعی برای کاریابی و کسب درآمد",
       "duration_seconds": 524,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/BF2CFA69/x",
       "video_url": "https://www.aparat.com/v/2Goum",
       "transcript_path": "transcripts/khane-to/episode-07.md",
@@ -115,7 +136,10 @@
       "episode": 8,
       "title": "سه ویژگی شغل رضایت‌بخش",
       "duration_seconds": 568,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/1B330C23/x",
       "video_url": "https://www.aparat.com/v/egP9f",
       "transcript_path": "transcripts/khane-to/episode-08.md",
@@ -128,7 +152,10 @@
       "episode": 9,
       "title": "چطور شغل‌مان را توسعه دهیم؟",
       "duration_seconds": 871,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/00D9A87F/x",
       "video_url": "https://www.aparat.com/v/Jp9uc",
       "transcript_path": "transcripts/khane-to/episode-09.md",
@@ -141,7 +168,10 @@
       "episode": 10,
       "title": "سه دلیل برای سرمایه‌گذاری و پنج گزینه برای انتخاب",
       "duration_seconds": 1122,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/2E656F0E/x",
       "video_url": "https://www.aparat.com/v/zv3FP",
       "transcript_path": "transcripts/khane-to/episode-10.md",
@@ -154,7 +184,10 @@
       "episode": 11,
       "title": "چرا ریسک‌پذیر نیستیم؟ با نگاهی به صندوق‌های سرمایه‌گذاری",
       "duration_seconds": 552,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/C203F9BA/x",
       "video_url": "https://www.aparat.com/v/w2Sg9",
       "transcript_path": "transcripts/khane-to/episode-11.md",
@@ -167,7 +200,10 @@
       "episode": 12,
       "title": "گام‌های عملیاتی برای انجام معاملات در بورس",
       "duration_seconds": 850,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/2AA67199/x",
       "video_url": "https://www.aparat.com/v/uGBLE",
       "transcript_path": "transcripts/khane-to/episode-12.md",
@@ -180,7 +216,10 @@
       "episode": 13,
       "title": "چطور از خودمان و سرمایه‌مان محافظت کنیم؟",
       "duration_seconds": 1040,
-      "speakers": ["دکتر کمیل رودی", "فرهاد جم"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "فرهاد جم"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/1699F2E4/x",
       "video_url": "https://www.aparat.com/v/Vn2ek",
       "transcript_path": "transcripts/khane-to/episode-13.md",
@@ -195,7 +234,11 @@
       "episode": 1,
       "title": "سواد مالی برای خانم‌ها؛ واقعاً ضروری است؟",
       "duration_seconds": 1453,
-      "speakers": ["دکتر کمیل رودی", "مجری برنامه", "شرکت‌کنندگان کارگاه"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/B094D69C/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%D8%A7-%D8%B6%D8%B1%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA",
       "video_url": "https://www.aparat.com/v/6XCwb",
       "transcript_path": "transcripts/asre-shirin-season-1/episode-01.md",
@@ -210,13 +253,37 @@
       "episode": 2,
       "title": "سواد مالی خانم‌ها؛ وضعیت چقدر بحرانی است؟",
       "duration_seconds": 1395,
-      "speakers": ["دکتر کمیل رودی", "مجری برنامه", "شرکت‌کنندگان کارگاه"],
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
       "source_url": "https://www.fintelligence.ir/Blog/Detail/662BDA7F/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%B2%D9%86%D8%A7%D9%86",
       "video_url": "https://www.aparat.com/v/2ptDl",
       "transcript_path": "transcripts/asre-shirin-season-1/episode-02.md",
       "raw_path": "raw/asre-shirin-season-1/episode-02.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-02.jsonl",
       "status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-03",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 3,
+      "title": "سواد مالی خانم‌ها؛ روی کدام پلکان؟",
+      "duration_seconds": 1336,
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/5299D1D9/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7-%D8%B1%D9%88%DB%8C-%DA%A9%D8%AF%D8%A7%D9%85-%D9%BE%D9%84%DA%A9%D8%A7%D9%86",
+      "video_url": "https://www.aparat.com/v/O51vh",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-03.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-03.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-03.jsonl",
+      "status": "reviewed",
+      "review_status": "reviewed"
     }
   ]
 }
