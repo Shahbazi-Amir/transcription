@@ -17,7 +17,7 @@
     }
   ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 17,
+  "episodes_total": 18,
   "episodes": [
     {
       "id": "khane-to-01",
@@ -302,6 +302,26 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-04.md",
       "raw_path": "raw/asre-shirin-season-1/episode-04.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-04.jsonl",
+      "status": "reviewed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-05",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 5,
+      "title": "سواد مالی خانم‌ها؛ پول‌ها کجا می‌روند؟",
+      "duration_seconds": 1583,
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/3E26E509/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7-%D9%BE%D9%88%D9%84%D9%87%D8%A7-%DA%A9%D8%AC%D8%A7-%D9%85%DB%8C%D8%B1%D9%88%D9%86%D8%AF",
+      "video_url": "https://www.aparat.com/v/lhE6W",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-05.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-05.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-05.jsonl",
       "status": "reviewed",
       "review_status": "reviewed"
     }
