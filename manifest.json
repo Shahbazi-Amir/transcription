@@ -282,8 +282,8 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-03.md",
       "raw_path": "raw/asre-shirin-season-1/episode-03.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-03.jsonl",
-      "status": "needs_review",
-      "review_status": "needs_review"
+      "status": "reviewed",
+      "review_status": "reviewed"
     },
     {
       "id": "asre-shirin-season-1-04",
