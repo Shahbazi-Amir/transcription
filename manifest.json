@@ -17,7 +17,7 @@
     }
   ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 14,
+  "episodes_total": 15,
   "episodes": [
     {
       "id": "khane-to-01",
@@ -201,6 +201,21 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-01.md",
       "raw_path": "raw/asre-shirin-season-1/episode-01.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-01.jsonl",
+      "status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-02",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 2,
+      "title": "سواد مالی خانم‌ها؛ وضعیت چقدر بحرانی است؟",
+      "duration_seconds": 1395,
+      "speakers": ["دکتر کمیل رودی", "مجری برنامه", "شرکت‌کنندگان کارگاه"],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/662BDA7F/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%B2%D9%86%D8%A7%D9%86",
+      "video_url": "https://www.aparat.com/v/2ptDl",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-02.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-02.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-02.jsonl",
       "status": "reviewed"
     }
   ]
