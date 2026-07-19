@@ -17,7 +17,7 @@
     }
   ],
   "publisher": "آکادمی هوش مالی",
-  "episodes_total": 20,
+  "episodes_total": 21,
   "episodes": [
     {
       "id": "khane-to-01",
@@ -362,6 +362,26 @@
       "transcript_path": "transcripts/asre-shirin-season-1/episode-07.md",
       "raw_path": "raw/asre-shirin-season-1/episode-07.raw.json",
       "rag_path": "rag/episodes/asre-shirin-season-1-episode-07.jsonl",
+      "status": "reviewed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "asre-shirin-season-1-08",
+      "program": "عصر شیرین",
+      "season": "فصل اول",
+      "episode": 8,
+      "title": "سواد مالی خانم‌ها؛ بودجه‌بندی شخصی محدودیت است یا آزادی؟",
+      "duration_seconds": 1441,
+      "speakers": [
+        "دکتر کمیل رودی",
+        "مجری برنامه",
+        "شرکت‌کنندگان کارگاه"
+      ],
+      "source_url": "https://www.fintelligence.ir/Blog/Detail/7C8818DA/%D8%B3%D9%88%D8%A7%D8%AF-%D9%85%D8%A7%D9%84%DB%8C-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D8%B4%D8%AE%D8%B5%DB%8C-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA-%DB%8C%D8%A7-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C",
+      "video_url": "https://www.aparat.com/v/xk2LT",
+      "transcript_path": "transcripts/asre-shirin-season-1/episode-08.md",
+      "raw_path": "raw/asre-shirin-season-1/episode-08.raw.json",
+      "rag_path": "rag/episodes/asre-shirin-season-1-episode-08.jsonl",
       "status": "reviewed",
       "review_status": "reviewed"
     }
