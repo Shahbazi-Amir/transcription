@@ -1,10 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Audio and video
 audio/
 video/
-models/
-node_modules/
 *.mp3
 *.mp4
 *.wav
+*.m4a
+*.webm
+*.mkv
 
-# Local course downloads (large/private files)
+# Models and generated data
+models/
 data/raw_videos/
+data/raw_audio/
+outputs/
+temp/
+tmp/
+
+# Downloaded private course pages
+course_page.html
+course_page_files/
+*_files/
+*.html
+
+# Node.js
+node_modules/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
