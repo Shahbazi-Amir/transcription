@@ -6,3 +6,5 @@ node_modules/
 *.mp4
 *.wav
 
+# Local course downloads (large/private files)
+data/raw_videos/
